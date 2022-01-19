@@ -1,0 +1,11 @@
+.loginButton{
+width:40%;
+height:50%;
+margin-left:30%;
+margin-right:30%;
+margin-top:5%;
+background-color: rgba(229, 104, 0, 0.5);
+border:rgba(99, 45, 0, 0.5);
+border-style: double;
+border-radius: 20px;
+}
